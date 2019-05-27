@@ -12,7 +12,7 @@ import com.Qa.TestBaseDemo.TestBase;
 import com.facebook.pages.LoginPage;
 
 public class LoginPageTest extends TestBase {
-	
+	//Login page test
 	LoginPage loginPage;
 	public LoginPageTest()
 	{
