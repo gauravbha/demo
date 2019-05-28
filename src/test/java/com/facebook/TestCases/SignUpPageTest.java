@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 import com.Qa.TestBaseDemo.TestBase;
 //Hello World
+//Class SignUp
 public class SignUpPageTest extends TestBase {
 @Test
 public void signup()
