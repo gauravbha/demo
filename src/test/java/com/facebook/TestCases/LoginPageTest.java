@@ -18,7 +18,7 @@ public class LoginPageTest extends TestBase {
 	{
 		super();
 	}
-	//ok test
+	
 	@BeforeSuite
 	public void setUp()
 	{
